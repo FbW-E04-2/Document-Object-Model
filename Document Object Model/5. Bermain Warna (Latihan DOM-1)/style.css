@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+}
+body{
+    text-align: center;
+}
+
+.crimson {background-color: crimson;}
+
+.kotak {
+    width: 25px;
+    height: 25px;
+    margin: auto;
+}
+.merah {background-color: red;}
+.hijau {background-color: green;}
+.biru {background-color: blue;}
